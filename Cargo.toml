@@ -1,6 +1,6 @@
 [package]
 name = "io-read-line-prototype"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/yoshuawuyts/io-read-line-prototype"
 documentation = "https://docs.rs/io-read-line-prototype"
