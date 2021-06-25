@@ -1,7 +1,7 @@
 //! Prototype for `io::read_line`.
 //!
 //! This serves as a counterpart to
-//! [`io::read_from_string`](https://github.com/rust-lang/rust/issues/80218) and
+//! [`io::read_to_string`](https://github.com/rust-lang/rust/issues/80218) and
 //! is inspired by proposals such as
 //! [`std::io::input`](https://github.com/rust-lang/rust/pull/75435).
 //!
